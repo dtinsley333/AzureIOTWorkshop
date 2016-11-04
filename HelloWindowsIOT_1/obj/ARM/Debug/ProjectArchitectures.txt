@@ -1,0 +1,1 @@
+C:\CodeProjects\HelloWindowsIOT_1\HelloWindowsIOT_1\HelloWindowsIOT_1.csproj;arm
